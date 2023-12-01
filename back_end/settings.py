@@ -12,7 +12,7 @@ SECRET_KEY = "django-insecure-&k^cf_j^-_q72i+ec9fx@5^6sw)9(zd%^qyw&ixf_ixocew@*%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "localhost", "sneaker-lab-18d0794078f8.herokuapp.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "localhost", "sneaker-lab-18d0794078f8.herokuapp.com", "www.sneakerlab.shop", "sneakerlab.shop"]
 
 
 # Application definition.
