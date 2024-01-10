@@ -28,12 +28,12 @@ function LoginScreen({ location, history }) {
 
   return (
     <FormContainer>
-      <h6 className="text-center">My SneakerLab Account</h6>
+      <h6 style={{ textAlign: "center" }}>My SneakerLab Account</h6>
       <Container>
         <Row>
           <Col></Col>
           <Col xs={8}>
-            <h1>
+            <h1 style={{ marginLeft: "1rem" }}>
               <strong>Sign In</strong>
             </h1>
           </Col>
