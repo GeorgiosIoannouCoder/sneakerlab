@@ -77,7 +77,7 @@
 2. **Fully customizable profile.**
 3. **User-friendly checkout proces.**
 4. **Order tracking.**
-5. **See, manage, edit orders.**
+5. **View, manage, edit orders.**
 6. **Allow users to review products via the fully functional review system.**
 7. **PayPal and credit/debit card payment integration.**
 8. **Admin panel that allows admin users to see all listed products, create products, edit products, delete products, create users, edit users, delete users, edit orders, and upload photos.**
@@ -161,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/GeorgiosIoannouCoder/mergeme/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/GeorgiosIoannouCoder/sneakerlab/blob/master/LICENSE) for more information.
 
 MIT License
 
