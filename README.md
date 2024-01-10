@@ -10,7 +10,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub][github-shield]][github-url]
 
-# [SneakerLab](https://sneakerlab.shop/#/) | Sneaker Slides Ecommerce Platform
+# [SneakerLab](https://sneakerlab.shop/#/) | Sneakers Slides Ecommerce Platform
 
 <br />
 <div align="center">
@@ -42,6 +42,7 @@
       <ul>
         <li><a href="#key-features">Key Features</a></li>
         <li><a href="#built-with">Built With</a></li>
+         <li><a href="#database-er-diagram">Database ER-Diagram</a></li>
         <li><a href="#architecture">Architecture</a></li>
       </ul>
     </li>
@@ -226,7 +227,7 @@ Project Link: [https://github.com/GeorgiosIoannouCoder/sneakerlab](https://githu
 [Django]: https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=092e20
 [Django-url]: https://www.djangoproject.com/
 
-[PostgreSQL]: https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=0064a5
+[PostgreSQL]: https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=008bb9
 [PostgreSQL-url]: https://www.postgresql.org/
 
 [Node.js]: https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=nodedotjs&logoColor=3c873a
