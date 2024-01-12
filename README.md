@@ -1,4 +1,7 @@
+***Check out my other ecommerce platform [ShopIt](https://github.com/georgiosioannoucoder/shopit)!***
+
 ***NOTE: When visiting this application make sure that you are using the protocol <ins>https</ins> and NOT http otherwise the application will not work!***
+
 # [SneakerLab](https://sneakerlab.shop/#/) | Sneaker Slides Ecommerce Platform
 <a name="readme-top"></a>
 
